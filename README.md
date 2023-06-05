@@ -1,1 +1,3 @@
-# data-forge
+# DataForge
+
+DataForge is an advanced mock data generation application that generates realistic and diverse mock data for your database schema. With DataForge, you can easily generate large volumes of representative data that closely mimic the structure and characteristics of your actual database. It intelligently learns data patterns and distributions to generate synthetic data that adheres to the schema constraints and relationships. DataForge saves you time and effort by providing high-quality mock data for testing, development, and prototyping purposes, ensuring your applications work seamlessly with real-like data. Whether you have large and complex database schemas or need to simulate specific data scenarios, DataForge offers a flexible and efficient solution to generate customized mock data that meets your exact requirements.
